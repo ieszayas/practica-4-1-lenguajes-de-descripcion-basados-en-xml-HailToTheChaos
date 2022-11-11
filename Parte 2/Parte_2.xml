@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu_desayuno>
+  <desayuno>
+    <nombre>Aida</nombre>
+    <precio>6,00 €</precio>
+    <descripcion> desayuno americano 
+      <alimentos>
+        <alimento> huevos </alimento>
+        <cantidad> 2 </cantidad>
+      </alimentos>
+      <alimentos>
+        <alimento> bacon </alimento>
+        <cantidad> 3 </cantidad>
+      </alimentos>
+      <alimentos>
+        <alimento> patatas </alimento>
+        <cantidad> 20 </cantidad>
+      </alimentos>
+    </descripcion>
+    <calorias>1200</calorias>
+  </desayuno>
+  <desayuno>
+    <nombre>Abril</nombre>
+    <precio>$4.95</precio>
+    <descripcion> Macedonia de fruta 
+      <alimentos>
+        <alimento> manzana </alimento>
+        <cantidad> 1 </cantidad>
+      </alimentos>
+      <alimentos>
+        <alimento> naranja </alimento>
+        <cantidad> 1 </cantidad>
+      </alimentos>
+      <alimentos>
+        <alimento> plátano </alimento>
+        <cantidad> 1 </cantidad>
+      </alimentos>
+      <alimentos>
+        <alimento> pera </alimento>
+        <cantidad> 1 </cantidad>
+      </alimentos>
+    </descripcion>
+    <calorias>600</calorias>
+  </desayuno>
+</menu_desayuno>
